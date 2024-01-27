@@ -1,4 +1,5 @@
  👨‍💻 About Me:
+ 
 Hello there! I'm Gyamfi John, a passionate Full Stack Developer with a knack for turning ideas into reality through elegant and efficient code. My journey in the world of software development has been an exhilarating ride, where I've honed my skills in both front-end and back-end technologies.
 
 ## 🌐 Socials:
