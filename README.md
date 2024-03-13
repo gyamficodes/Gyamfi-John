@@ -20,7 +20,7 @@ Football is my favorite game.
 As a kid, I wanted to be A Soilder.
 *I love coding.
 
-#📫 Contact
+# 📫 Contact
 For a quick response, DM me on  (www.linkedin.com/in/gyamfi-john-23aa5727b) .
 
 # 📊 GitHub Stats:
