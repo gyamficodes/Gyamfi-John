@@ -16,7 +16,7 @@ Testing: Cypress Playwright Vitest Postman Insomnia
 
 Others: Storybook Zustand A11y Scrum Confluence Jira
 
-✨ Fun Facts
+# ✨ Fun Facts
 Football is my favorite game.
 As a kid, I wanted to be A Soilder.
 I love coding.
