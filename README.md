@@ -3,7 +3,7 @@
 Hello there! I'm Gyamfi John, a passionate Frontend Developer with a knack for turning ideas into reality through elegant and efficient code. My journey in the world of software development has been an exhilarating ride, where I've honed my skills in both front-end and back-end technologies.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gyamficodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gyamficodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white.www.linkedin.com/in/gyamfi-john-23aa5727b)]  
 # 📦 Toolbox
 Frontend Development: React Next.js ReactNative Vue Nuxt.Js TypeScript Tailwind Material-UI 
 Framer-Motion TailwindCss Sass Material Tailwind Typescript
