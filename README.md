@@ -13,7 +13,7 @@ Backend Development: Nest.js GraphQL Firebase PHP Laravel
 
 Testing: Cypress Playwright Vitest Postman Insomnia
 
-Others: Storybook Zustand A11y Scrum Confluence Jira
+Others: Storybook Zustand A11y Scrum Confluence Jira Figma PhotoShope Adobe XD Adobe Photoshope 
 
 # ✨ Fun Facts
 Football is my favorite game.
