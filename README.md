@@ -4,8 +4,8 @@ Hello there! I'm Gyamfi John, a passionate Frontend Developer with a knack for t
 
 
 # 📦 Toolbox
-Frontend Development: React Next.js ReactNative Vue Nuxt.Js TypeScript Tailwind Material-UI 
-Framer-Motion TailwindCss Sass Material Tailwind Typescript
+Frontend Development: React Next.js ReactNative Vue Nuxt.Js TypeScript Tailwind Material-UI Blazor(C#)
+Framer-Motion TailwindCss Sass Material Tailwind Typescript Umbraco
 
 Version Control: Git GitLab Bitbucket
 
