@@ -9,7 +9,7 @@ Framer-Motion TailwindCss Sass Material Tailwind Typescript Umbraco
 
 Version Control: Git GitLab Bitbucket Azure DevOps
 
-Backend Development: Nest.js GraphQL Firebase C# PHP Laravel MYSQL
+Backend Development: Nest.js TablePluss GraphQL Firebase C# PHP Laravel MYSQL Sqlite 
 
 Testing: Cypress Playwright Vitest Postman Insomnia
 
